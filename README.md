@@ -14,7 +14,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/entirety.ai%2Fmeetup-intuition-to-implementation/master)
 
-####  [Meetup 2019](https://www.meetup.com/Entirety-ai-Intuition-to-Implementation/) Contents.
+####  [Meetup 2019 - 2020](https://www.meetup.com/Entirety-ai-Intuition-to-Implementation/) Contents.
 
 We will be discussing current trend in deep-learning and it's  surprisingly effective role in solving real case scenarios. This meetup  aims to educate, inspire, and enable you to rapidly prototype your next  idea using ML and DL models. The strategy will be to focus more on  Hands On experience first, and then, take you deeper into concepts.  Artificial Intelligence and Machine Learning are evolving extremely fast  which makes the concepts invented last year, obsolete this year.  Therefore we will cover mostly the latest concepts used in the  industry. This meetup focuses on "how to build and understand", not just  "how to use".
 
@@ -60,6 +60,8 @@ We are dividing our Meetup Sessions in Multiple  phases. Theses Phases are defin
 
 * NLP
 
+#### Upcoming
+* BERT/T5 application
 
 ### Who is the target audience?
 
