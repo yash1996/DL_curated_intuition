@@ -1,8 +1,3 @@
-# REPO IS DEPRECATED
-* ## We moved from Gitlab to Github.
-* ## We will not be maintaining this repo.
-* ## This repo is properly structured on github with updates in the old content for clarity.
-* ## All further meetup content will go to below mentioned github repo.
 
 # Tap on the below links 
 # [Entirety.ai New Github repo for Meetup Content](https://github.com/entiretydotai/Meetup-Content)
