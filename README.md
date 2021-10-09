@@ -74,7 +74,7 @@ We appreciate all contributions. If you are planning to contribute back by imple
 
 ## The Team
 
-The Repository is currently maintained by [Utkarsh Vardhan](https://github.com/u6yuvi/) and [Aman Pandey](https://github.com/aman5319/).
+The Repository is currently maintained by  [Yash Gupta](https://github.com/yash1996/)
 
 ## Licensing
 
